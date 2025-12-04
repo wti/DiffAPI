@@ -1,4 +1,4 @@
-# DiffAPI
+# DiffAPI: DRAFT library api platform diffing using swift-syntax
 - API differences in Swift across platforms
 - e.g., Foundation in Linux vs. MacOS
 
